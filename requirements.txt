@@ -1,0 +1,19 @@
+1. Advert Assistant collects and analyzes information got from a web page.
+
+2. Administrator must be able to configure Advert Assistant to support different web sources and different analysis of them (mode 1).
+
+3. Users must be able to use configurations set in step 2 to set a web page in scope of configured source through the web.
+
+4. Administrator must be able to set source to collect data and determine analysis through the configuration file (mode 2).
+
+5. Users must be able to require information collected against configurations set in step 4.
+
+6. Advert Assistant supports simultaneous processing of several web pages.
+
+7. Advert Assistant uses Connection Manager to download web pages.
+
+8. Advert Assistant stores collected information in PostgreSQL DB.
+
+9. Advert Assistant supports many different users of different roles.
+
+10. Advert Assistant sends reports through email.
